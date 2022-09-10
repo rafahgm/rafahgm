@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align=left>
+<img src="https://github-readme-stats.vercel.app/api?username=rafahgm&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahgm&theme=synthwave" alt="language_most_used" align=right />
+  </div>
 <!--
 **rafahgm/rafahgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
